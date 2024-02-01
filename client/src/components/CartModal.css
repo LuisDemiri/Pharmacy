@@ -1,0 +1,12 @@
+.card-prod {
+  height: 100px;
+  width: 275px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid;
+  border-radius: 15px;
+  padding: 15px;
+  margin-bottom: 15px;
+}

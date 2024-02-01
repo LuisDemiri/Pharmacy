@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  width: 99vw;
+  background-color: #60fcb6;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  color: #48514d;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+
+.cart-icon {
+  margin-right: 50px;
+}
